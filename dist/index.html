@@ -1,11 +1,64 @@
 <!doctype html>
 <html>
-  <head>
+
+<head>
 	<meta name="generator" content="Hugo 0.19" />
-    <title>Hugo with Gulp and Webpack</title>
-    <link rel="stylesheet" href="/css/main.css"/>
-  </head>
-  <body>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>
+        BSY - Bransjeforeningen for Systeminnredning i Yrkesbygg
+    </title>
+    <meta name="description" content="Website for BSY - Bransjeforeningen for Systeminnredning i Yrkesbygg">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <link rel="shortcut icon" href="./toolkits/startup/flat-ui/dist/images/favicon.ico">
+    <link rel="stylesheet" href="./js/vendor/bootstrap/bootstrap.css">
+    <link rel="stylesheet" href="./js/vendor/datatables.net-bs/dataTables.bootstrap.css">
+    <link rel="stylesheet" href="./toolkits/startup/flat-ui/dist/css/flat-ui-pro.min.css">
+    
+    <link rel="stylesheet" href="./toolkits/startup/common-files/css/icon-font.css">
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./css/BSY.css">
+    <link rel="stylesheet" href="./css/development.css">
+    <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
+    <script src="./animations/hero/hero.js"></script>
+    <script>
+        var canvas, stage, exportRoot;
+
+        function init() {
+            
+
+            canvas = document.getElementById("hero");
+            images = images || {};
+
+            var loader = new createjs.LoadQueue(false);
+            loader.addEventListener("fileload", handleFileLoad);
+            loader.addEventListener("complete", handleComplete);
+            loader.loadManifest(lib.properties.manifest);
+        }
+
+        function handleFileLoad(evt) {
+            if (evt.item.type == "image") {
+                images[evt.item.id] = evt.result;
+            }
+        }
+
+        function handleComplete(evt) {
+            exportRoot = new lib.hero();
+
+            stage = new createjs.Stage(canvas);
+            stage.addChild(exportRoot);
+            stage.update();
+
+            createjs.Ticker.setFPS(lib.properties.fps);
+            createjs.Ticker.addEventListener("tick", stage);
+        }
+    </script>
+</head>
+
+<body>
 
 
 <h1>Hugo with Gulp, PostCSS and Webpack</h1>
