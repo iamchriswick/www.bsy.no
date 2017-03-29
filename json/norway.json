@@ -1,0 +1,2161 @@
+[{
+    "id": 101,
+    "kommune": "HALDEN",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 104,
+    "kommune": "MOSS",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 105,
+    "kommune": "SARPSBORG",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 106,
+    "kommune": "FREDRIKSTAD",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 111,
+    "kommune": "HVALER",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 118,
+    "kommune": "AREMARK",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 119,
+    "kommune": "MARKER",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 121,
+    "kommune": "RØMSKOG",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 122,
+    "kommune": "TRØGSTAD",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 123,
+    "kommune": "SPYDEBERG",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 124,
+    "kommune": "ASKIM",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 125,
+    "kommune": "EidSBERG",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 127,
+    "kommune": "SKIPTVET",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 128,
+    "kommune": "RAKKESTAD",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 135,
+    "kommune": "RÅDE",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 136,
+    "kommune": "RYGGE",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 137,
+    "kommune": "VÅLER",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 138,
+    "kommune": "HOBØL",
+    "fylke": "ØSTFOLD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 211,
+    "kommune": "VESTBY",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 213,
+    "kommune": "SKI",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 214,
+    "kommune": "ÅS",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 215,
+    "kommune": "FROGN",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 216,
+    "kommune": "NESODDEN",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 217,
+    "kommune": "OPPEGÅRD",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 219,
+    "kommune": "BÆRUM",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 220,
+    "kommune": "ASKER",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 221,
+    "kommune": "AURSKOG-HØLAND",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 226,
+    "kommune": "SØRUM",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 227,
+    "kommune": "FET",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 228,
+    "kommune": "RÆLINGEN",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 229,
+    "kommune": "ENEBAKK",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 230,
+    "kommune": "LØRENSKOG",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 231,
+    "kommune": "SKEDSMO",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 233,
+    "kommune": "NITTEDAL",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 234,
+    "kommune": "GJERDRUM",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 235,
+    "kommune": "ULLENSAKER",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 236,
+    "kommune": "NES",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 237,
+    "kommune": "EidSVOLL",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 238,
+    "kommune": "NANNESTAD",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 239,
+    "kommune": "HURDAL",
+    "fylke": "AKERSHUS",
+    "landsdel": "Østlandet"
+}, {
+    "id": 301,
+    "kommune": "OSLO",
+    "fylke": "OSLO",
+    "landsdel": "Østlandet"
+}, {
+    "id": 402,
+    "kommune": "KONGSVINGER",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 403,
+    "kommune": "HAMAR",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 412,
+    "kommune": "RINGSAKER",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 415,
+    "kommune": "LØTEN",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 417,
+    "kommune": "STANGE",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 418,
+    "kommune": "NORD-ODAL",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 419,
+    "kommune": "SØR-ODAL",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 420,
+    "kommune": "EidSKOG",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 423,
+    "kommune": "GRUE",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 425,
+    "kommune": "ÅSNES",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 426,
+    "kommune": "VÅLER",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 427,
+    "kommune": "ELVERUM",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 428,
+    "kommune": "TRYSIL",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 429,
+    "kommune": "ÅMOT",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 430,
+    "kommune": "STOR-ELVDAL",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 432,
+    "kommune": "RENDALEN",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 434,
+    "kommune": "ENGERDAL",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 436,
+    "kommune": "TOLGA",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 437,
+    "kommune": "TYNSET",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 438,
+    "kommune": "ALVDAL",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 439,
+    "kommune": "FOLLDAL",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 441,
+    "kommune": "OS (HEDMARK)",
+    "fylke": "HEDMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 501,
+    "kommune": "LILLEHAMMER",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 502,
+    "kommune": "GJØVIK",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 511,
+    "kommune": "DOVRE",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 512,
+    "kommune": "LESJA",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 513,
+    "kommune": "SKJÅK",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 514,
+    "kommune": "LOM",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 515,
+    "kommune": "VÅGÅ",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 516,
+    "kommune": "NORD-FRON",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 517,
+    "kommune": "SEL",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 519,
+    "kommune": "SØR-FRON",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 520,
+    "kommune": "RINGEBU",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 521,
+    "kommune": "ØYER",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 522,
+    "kommune": "GAUSDAL",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 528,
+    "kommune": "ØSTRE TOTEN",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 529,
+    "kommune": "VESTRE TOTEN",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 532,
+    "kommune": "JEVNAKER",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 533,
+    "kommune": "LUNNER",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 534,
+    "kommune": "GRAN",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 536,
+    "kommune": "SØNDRE LAND",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 538,
+    "kommune": "NORDRE LAND",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 540,
+    "kommune": "SØR-AURDAL",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 541,
+    "kommune": "ETNEDAL",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 542,
+    "kommune": "NORD-AURDAL",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 543,
+    "kommune": "VESTRE SLidRE",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 544,
+    "kommune": "ØYSTRE SLidRE",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 545,
+    "kommune": "VANG",
+    "fylke": "OPPLAND",
+    "landsdel": "Østlandet"
+}, {
+    "id": 602,
+    "kommune": "DRAMMEN",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 604,
+    "kommune": "KONGSBERG",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 605,
+    "kommune": "RINGERIKE",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 612,
+    "kommune": "HOLE",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 615,
+    "kommune": "FLÅ",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 616,
+    "kommune": "NES",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 617,
+    "kommune": "GOL",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 618,
+    "kommune": "HEMSEDAL",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 619,
+    "kommune": "ÅL",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 620,
+    "kommune": "HOL",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 621,
+    "kommune": "SIGDAL",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 622,
+    "kommune": "KRØDSHERAD",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 623,
+    "kommune": "MODUM",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 624,
+    "kommune": "ØVRE EIKER",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 625,
+    "kommune": "NEDRE EIKER",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 626,
+    "kommune": "LIER",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 627,
+    "kommune": "RØYKEN",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 628,
+    "kommune": "HURUM",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 631,
+    "kommune": "FLESBERG",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 632,
+    "kommune": "ROLLAG",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 633,
+    "kommune": "NORE OG UVDAL",
+    "fylke": "BUSKERUD",
+    "landsdel": "Østlandet"
+}, {
+    "id": 701,
+    "kommune": "HORTEN",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 702,
+    "kommune": "HOLMESTRAND",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 704,
+    "kommune": "TØNSBERG",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 706,
+    "kommune": "SANDEFJORD",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 709,
+    "kommune": "LARVIK",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 711,
+    "kommune": "SVELVIK",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 713,
+    "kommune": "SANDE (V.)",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 714,
+    "kommune": "HOF",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 716,
+    "kommune": "RE",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 719,
+    "kommune": "ANDEBU",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 720,
+    "kommune": "STOKKE",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 722,
+    "kommune": "NØTTERØY",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 723,
+    "kommune": "TJØME",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 728,
+    "kommune": "LARDAL",
+    "fylke": "VESTFOLD",
+    "landsdel": ""
+}, {
+    "id": 805,
+    "kommune": "PORSGRUNN",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 806,
+    "kommune": "SKIEN",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 807,
+    "kommune": "NOTODDEN",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 811,
+    "kommune": "SILJAN",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 814,
+    "kommune": "BAMBLE",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 815,
+    "kommune": "KRAGERØ",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 817,
+    "kommune": "DRANGEDAL",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 819,
+    "kommune": "NOME",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 821,
+    "kommune": "BØ (TEL.)",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 822,
+    "kommune": "SAUHERAD",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 826,
+    "kommune": "TINN",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 827,
+    "kommune": "HJARTDAL",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 828,
+    "kommune": "SELJORD",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 829,
+    "kommune": "KVITESEid",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 830,
+    "kommune": "NISSEDAL",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 831,
+    "kommune": "FYRESDAL",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 833,
+    "kommune": "TOKKE",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 834,
+    "kommune": "VINJE",
+    "fylke": "TELEMARK",
+    "landsdel": "Østlandet"
+}, {
+    "id": 901,
+    "kommune": "RISØR",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 904,
+    "kommune": "GRIMSTAD",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 906,
+    "kommune": "ARENDAL",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 911,
+    "kommune": "GJERSTAD",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 912,
+    "kommune": "VEGÅRSHEI",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 914,
+    "kommune": "TVEDESTRAND",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 919,
+    "kommune": "FROLAND",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 926,
+    "kommune": "LILLESAND",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 928,
+    "kommune": "BIRKENES",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 929,
+    "kommune": "ÅMLI",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 935,
+    "kommune": "IVELAND",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 937,
+    "kommune": "EVJE OG HORNNES",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 938,
+    "kommune": "BYGLAND",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 940,
+    "kommune": "VALLE",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 941,
+    "kommune": "BYKLE",
+    "fylke": "AUST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1001,
+    "kommune": "KRISTIANSAND",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1002,
+    "kommune": "MANDAL",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1003,
+    "kommune": "FARSUND",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1004,
+    "kommune": "FLEKKEFJORD",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1014,
+    "kommune": "VENNESLA",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1017,
+    "kommune": "SONGDALEN",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1018,
+    "kommune": "SØGNE",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1021,
+    "kommune": "MARNARDAL",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1026,
+    "kommune": "ÅSERAL",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1027,
+    "kommune": "AUDNEDAL",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1029,
+    "kommune": "LINDESNES",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1032,
+    "kommune": "LYNGDAL",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1034,
+    "kommune": "HÆGEBOSTAD",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1037,
+    "kommune": "KVINESDAL",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1046,
+    "kommune": "SIRDAL",
+    "fylke": "VEST-AGDER",
+    "landsdel": "Sørlandet"
+}, {
+    "id": 1101,
+    "kommune": "EIGERSUND",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1102,
+    "kommune": "SANDNES",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1103,
+    "kommune": "STAVANGER",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1106,
+    "kommune": "HAUGESUND",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1111,
+    "kommune": "SOKNDAL",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1112,
+    "kommune": "LUND",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1114,
+    "kommune": "BJERKREIM",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1119,
+    "kommune": "HÅ",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1120,
+    "kommune": "KLEPP",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1121,
+    "kommune": "TIME",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1122,
+    "kommune": "GJESDAL",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1124,
+    "kommune": "SOLA",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1127,
+    "kommune": "RANDABERG",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1129,
+    "kommune": "FORSAND",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1130,
+    "kommune": "STRAND",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1133,
+    "kommune": "HJELMELAND",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1134,
+    "kommune": "SULDAL",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1135,
+    "kommune": "SAUDA",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1141,
+    "kommune": "FINNØY",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1142,
+    "kommune": "RENNESØY",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1144,
+    "kommune": "KVITSØY",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1145,
+    "kommune": "BOKN",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1146,
+    "kommune": "TYSVÆR",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1149,
+    "kommune": "KARMØY",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1151,
+    "kommune": "UTSIRA",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1160,
+    "kommune": "VINDAFJORD",
+    "fylke": "ROGALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1201,
+    "kommune": "BERGEN",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1211,
+    "kommune": "ETNE",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1216,
+    "kommune": "SVEIO",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1219,
+    "kommune": "BØMLO",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1221,
+    "kommune": "STORD",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1222,
+    "kommune": "FITJAR",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1223,
+    "kommune": "TYSNES",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1224,
+    "kommune": "KVINNHERAD",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1227,
+    "kommune": "JONDAL",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1228,
+    "kommune": "ODDA",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1231,
+    "kommune": "ULLENSVANG",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1232,
+    "kommune": "EidFJORD",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1233,
+    "kommune": "ULVIK",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1234,
+    "kommune": "GRANVIN",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1235,
+    "kommune": "VOSS",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1238,
+    "kommune": "KVAM",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1241,
+    "kommune": "FUSA",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1242,
+    "kommune": "SAMNANGER",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1243,
+    "kommune": "OS (HORDALAND)",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1244,
+    "kommune": "AUSTEVOLL",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1245,
+    "kommune": "SUND",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1246,
+    "kommune": "FJELL",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1247,
+    "kommune": "ASKØY",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1251,
+    "kommune": "VAKSDAL",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1252,
+    "kommune": "MODALEN",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1253,
+    "kommune": "OSTERØY",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1256,
+    "kommune": "MELAND",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1259,
+    "kommune": "ØYGARDEN",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1260,
+    "kommune": "RADØY",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1263,
+    "kommune": "LINDÅS",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1264,
+    "kommune": "AUSTRHEIM",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1265,
+    "kommune": "FEDJE",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1266,
+    "kommune": "MASFJORDEN",
+    "fylke": "HORDALAND",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1401,
+    "kommune": "FLORA",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1411,
+    "kommune": "GULEN",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1412,
+    "kommune": "SOLUND",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1413,
+    "kommune": "HYLLESTAD",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1416,
+    "kommune": "HØYANGER",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1417,
+    "kommune": "VIK",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1418,
+    "kommune": "BALESTRAND",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1419,
+    "kommune": "LEIKANGER",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1420,
+    "kommune": "SOGNDAL",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1421,
+    "kommune": "AURLAND",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1422,
+    "kommune": "LÆRDAL",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1424,
+    "kommune": "ÅRDAL",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1426,
+    "kommune": "LUSTER",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1428,
+    "kommune": "ASKVOLL",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1429,
+    "kommune": "FJALER",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1430,
+    "kommune": "GAULAR",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1431,
+    "kommune": "JØLSTER",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1432,
+    "kommune": "FØRDE",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1433,
+    "kommune": "NAUSTDAL",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1438,
+    "kommune": "BREMANGER",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1439,
+    "kommune": "VÅGSØY",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1441,
+    "kommune": "SELJE",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1443,
+    "kommune": "Eid",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1444,
+    "kommune": "HORNINDAL",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1445,
+    "kommune": "GLOPPEN",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1449,
+    "kommune": "STRYN",
+    "fylke": " SOGN OG FJORDANE",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1502,
+    "kommune": "MOLDE",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1504,
+    "kommune": "ÅLESUND",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1505,
+    "kommune": "KRISTIANSUND",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1511,
+    "kommune": "VANYLVEN",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1514,
+    "kommune": "SANDE (M.R.)",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1515,
+    "kommune": "HERØY (M.R.)",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1516,
+    "kommune": "ULSTEIN",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1517,
+    "kommune": "HAREid",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1519,
+    "kommune": "VOLDA",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1520,
+    "kommune": "ØRSTA",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1523,
+    "kommune": "ØRSKOG",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1524,
+    "kommune": "NORDDAL",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1525,
+    "kommune": "STRANDA",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1526,
+    "kommune": "STORDAL",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1528,
+    "kommune": "SYKKYLVEN",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1529,
+    "kommune": "SKODJE",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1531,
+    "kommune": "SULA",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1532,
+    "kommune": "GISKE",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1534,
+    "kommune": "HARAM",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1535,
+    "kommune": "VESTNES",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1539,
+    "kommune": "RAUMA",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1543,
+    "kommune": "NESSET",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1545,
+    "kommune": "MidSUND",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1546,
+    "kommune": "SANDØY",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1547,
+    "kommune": "AUKRA",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1548,
+    "kommune": "FRÆNA",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1551,
+    "kommune": "EidE",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1554,
+    "kommune": "AVERØY",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1557,
+    "kommune": "GJEMNES",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1560,
+    "kommune": "TINGVOLL",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1563,
+    "kommune": "SUNNDAL",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1566,
+    "kommune": "SURNADAL",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1567,
+    "kommune": "RINDAL",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1571,
+    "kommune": "HALSA",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1573,
+    "kommune": "SMØLA",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1576,
+    "kommune": "AURE",
+    "fylke": " MØRE OG ROMSDAL",
+    "landsdel": "Vestlandet"
+}, {
+    "id": 1601,
+    "kommune": "TRONDHEIM",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1612,
+    "kommune": "HEMNE",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1613,
+    "kommune": "SNILLFJORD",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1617,
+    "kommune": "HITRA",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1620,
+    "kommune": "FRØYA",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1621,
+    "kommune": "ØRLAND",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1622,
+    "kommune": "AGDENES",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1624,
+    "kommune": "RISSA",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1627,
+    "kommune": "BJUGN",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1630,
+    "kommune": "ÅFJORD",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1632,
+    "kommune": "ROAN",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1633,
+    "kommune": "OSEN",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1634,
+    "kommune": "OPPDAL",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1635,
+    "kommune": "RENNEBU",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1636,
+    "kommune": "MELDAL",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1638,
+    "kommune": "ORKDAL",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1640,
+    "kommune": "RØROS",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1644,
+    "kommune": "HOLTÅLEN",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1648,
+    "kommune": "MidTRE GAULDAL",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1653,
+    "kommune": "MELHUS",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1657,
+    "kommune": "SKAUN",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1662,
+    "kommune": "KLÆBU",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1663,
+    "kommune": "MALVIK",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1664,
+    "kommune": "SELBU",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1665,
+    "kommune": "TYDAL",
+    "fylke": "SØR-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1702,
+    "kommune": "STEINKJER",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1703,
+    "kommune": "NAMSOS",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1711,
+    "kommune": "MERÅKER",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1714,
+    "kommune": "STJØRDAL",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1717,
+    "kommune": "FROSTA",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1718,
+    "kommune": "LEKSVIK",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1719,
+    "kommune": "LEVANGER",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1721,
+    "kommune": "VERDAL",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1724,
+    "kommune": "VERRAN",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1725,
+    "kommune": "NAMDALSEid",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1736,
+    "kommune": "SNÅSA",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1738,
+    "kommune": "LIERNE",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1739,
+    "kommune": "RØYRVIK",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1740,
+    "kommune": "NAMSSKOGAN",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1742,
+    "kommune": "GRONG",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1743,
+    "kommune": "HØYLANDET",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1744,
+    "kommune": "OVERHALLA",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1748,
+    "kommune": "FOSNES",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1749,
+    "kommune": "FLATANGER",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1750,
+    "kommune": "VIKNA",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1751,
+    "kommune": "NÆRØY",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1755,
+    "kommune": "LEKA",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1756,
+    "kommune": "INDERØY",
+    "fylke": " NORD-TRØNDELAG",
+    "landsdel": "Trøndelag"
+}, {
+    "id": 1804,
+    "kommune": "BODØ",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1805,
+    "kommune": "NARVIK",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1811,
+    "kommune": "BINDAL",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1812,
+    "kommune": "SØMNA",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1813,
+    "kommune": "BRØNNØY",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1815,
+    "kommune": "VEGA",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1816,
+    "kommune": "VEVELSTAD",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1818,
+    "kommune": "HERØY (N.)",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1820,
+    "kommune": "ALSTAHAUG",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1822,
+    "kommune": "LEIRFJORD",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1824,
+    "kommune": "VEFSN",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1825,
+    "kommune": "GRANE",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1826,
+    "kommune": "HATTFJELLDAL",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1827,
+    "kommune": "DØNNA",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1828,
+    "kommune": "NESNA",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1832,
+    "kommune": "HEMNES",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1833,
+    "kommune": "RANA",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1834,
+    "kommune": "LURØY",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1835,
+    "kommune": "TRÆNA",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1836,
+    "kommune": "RØDØY",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1837,
+    "kommune": "MELØY",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1838,
+    "kommune": "GILDESKÅL",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1839,
+    "kommune": "BEIARN",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1840,
+    "kommune": "SALTDAL",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1841,
+    "kommune": "FAUSKE",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1845,
+    "kommune": "SØRFOLD",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1848,
+    "kommune": "STEIGEN",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1849,
+    "kommune": "HAMARØY",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1850,
+    "kommune": "TYSFJORD",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1851,
+    "kommune": "LØDINGEN",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1852,
+    "kommune": "TJELDSUND",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1853,
+    "kommune": "EVENES",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1854,
+    "kommune": "BALLANGEN",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1856,
+    "kommune": "RØST",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1857,
+    "kommune": "VÆRØY",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1859,
+    "kommune": "FLAKSTAD",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1860,
+    "kommune": "VESTVÅGØY",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1865,
+    "kommune": "VÅGAN",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1866,
+    "kommune": "HADSEL",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1867,
+    "kommune": "BØ (N.)",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1868,
+    "kommune": "ØKSNES",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1870,
+    "kommune": "SORTLAND",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1871,
+    "kommune": "ANDØY",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1874,
+    "kommune": "MOSKENES",
+    "fylke": "NORDLAND",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1902,
+    "kommune": "TROMSØ",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1903,
+    "kommune": "HARSTAD",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1911,
+    "kommune": "KVÆFJORD",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1913,
+    "kommune": "SKÅNLAND",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1917,
+    "kommune": "IBESTAD",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1919,
+    "kommune": "GRATANGEN",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1920,
+    "kommune": "LAVANGEN",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1922,
+    "kommune": "BARDU",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1923,
+    "kommune": "SALANGEN",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1924,
+    "kommune": "MÅLSELV",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1925,
+    "kommune": "SØRREISA",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1926,
+    "kommune": "DYRØY",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1927,
+    "kommune": "TRANØY",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1928,
+    "kommune": "TORSKEN",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1929,
+    "kommune": "BERG",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1931,
+    "kommune": "LENVIK",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1933,
+    "kommune": "BALSFJORD",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1936,
+    "kommune": "KARLSØY",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1938,
+    "kommune": "LYNGEN",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1939,
+    "kommune": "STORFJORD",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1940,
+    "kommune": "GÁIVUOTNA KÅFJORD",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1941,
+    "kommune": "SKJERVØY",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1942,
+    "kommune": "NORDREISA",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 1943,
+    "kommune": "KVÆNANGEN",
+    "fylke": "TROMS",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2002,
+    "kommune": "VARDØ",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2003,
+    "kommune": "VADSØ",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2004,
+    "kommune": "HAMMERFEST",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2011,
+    "kommune": "GUOVDAGEAidNU KAUTOKEINO",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2012,
+    "kommune": "ALTA",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2014,
+    "kommune": "LOPPA",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2015,
+    "kommune": "HASVIK",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2017,
+    "kommune": "KVALSUND",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2018,
+    "kommune": "MÅSØY",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2019,
+    "kommune": "NORDKAPP",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2020,
+    "kommune": "PORSANGER PORSÁNGU PORSANKI",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2021,
+    "kommune": "KARASJOHKA KARASJOK",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2022,
+    "kommune": "LEBESBY",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2023,
+    "kommune": "GAMVIK",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2024,
+    "kommune": "BERLEVÅG",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2025,
+    "kommune": "DEATNU TANA",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2027,
+    "kommune": "UNJARGGA NESSEBY",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2028,
+    "kommune": "BÅTSFJORD",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2030,
+    "kommune": "SØR-VARANGER",
+    "fylke": "FINNMARK",
+    "landsdel": "Nord-Norge"
+}, {
+    "id": 2111,
+    "kommune": "SPITSBERGEN",
+    "fylke": "SVALBARD",
+    "landsdel": "SVALBARD"
+}, {
+    "id": 2121,
+    "kommune": "BJØRNØYA",
+    "fylke": "SVALBARD",
+    "landsdel": "SVALBARD"
+}, {
+    "id": 2131,
+    "kommune": "HOPEN",
+    "fylke": "SVALBARD",
+    "landsdel": "SVALBARD"
+}, {
+    "id": 2211,
+    "kommune": "JAN MAYEN",
+    "fylke": "JAN MAYEN",
+    "landsdel": "JAN MAYEN"
+}]

@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="no">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>
+        BSY - Bransjeforeningen for Systeminnredning i Yrkesbygg
+    </title>
+    <meta name="description" content="Website for BSY - Bransjeforeningen for Systeminnredning i Yrkesbygg">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <link rel="shortcut icon" href="./toolkits/startup/flat-ui/dist/images/favicon.ico">
+    <link rel="stylesheet" href="./js/vendor/bootstrap/bootstrap.css">
+    <link rel="stylesheet" href="./js/vendor/datatables.net-bs/dataTables.bootstrap.css">
+    <link rel="stylesheet" href="./toolkits/startup/flat-ui/dist/css/flat-ui-pro.min.css">
+    <!-- Using only with Flat-UI (free)-->
+    <link rel="stylesheet" href="./toolkits/startup/common-files/css/icon-font.css">
+    <!-- end -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./css/BSY.css">
+    <link rel="stylesheet" href="./css/development.css">
+    <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
+    <script src="./animations/hero/hero.js"></script>
+    <script>
+        var canvas, stage, exportRoot;
+
+        function init() {
+            // --- write your JS code here ---
+
+            canvas = document.getElementById("hero");
+            images = images || {};
+
+            var loader = new createjs.LoadQueue(false);
+            loader.addEventListener("fileload", handleFileLoad);
+            loader.addEventListener("complete", handleComplete);
+            loader.loadManifest(lib.properties.manifest);
+        }
+
+        function handleFileLoad(evt) {
+            if (evt.item.type == "image") {
+                images[evt.item.id] = evt.result;
+            }
+        }
+
+        function handleComplete(evt) {
+            exportRoot = new lib.hero();
+
+            stage = new createjs.Stage(canvas);
+            stage.addChild(exportRoot);
+            stage.update();
+
+            createjs.Ticker.setFPS(lib.properties.fps);
+            createjs.Ticker.addEventListener("tick", stage);
+        }
+    </script>
+</head>
+
+
+<body class="home" onload="init();">
+    <div class="page-wrapper">
+        <!-- header-21 -->
+        <!-- header-21 -->
+        <header class="header-21">
+            <div class="container">
+                <div class="navbar col-sm-12">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle"></button>
+                        <a class="brand" href="index.html">
+                            <img src="./icons/logo-icon-green.svg" width="27px">
+                        </a>
+                    </div>
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav">
+                            <li class="active">
+                                <a href="/">START</a>
+                            </li>
+                            <li>
+                                <a href="about.html">OM BSY</a>
+                            </li>
+                            <li>
+                                <a href="gallery.html">INSPIRASJON</a>
+                            </li>
+                            <li>
+                                <a href="contact.html">KONTAKT OSS</a>
+                            </li>
+                        </ul>
+                        <form class="navbar-form pull-right">
+                            <a class="btn" href="login.html">LOGG INN</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <section class="header-21-sub v-center">
+            <div>
+                <div class="background">
+                    &nbsp;
+                </div>
+                <div class="container">
+                    <h3><canvas id="hero" width="459" height="300" style="background-color:#FFFFFF"></canvas>
+                 <span>Bransjeforeningen for Systeminnredning i Yrkesbygg</span></h3>
+                </div>
+            </div>
+            <a class="control-btn fui-arrow-down" href="#"> </a>
+        </section>
+        <section class="blogg-2-wrapper v-center">
+            <div>
+                <div class="blog-2">
+                    <div class="background hidden-phone">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div>
+                                        <img src="img/Gyldendal_Trespiler.jpg">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--/.container-->
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-7 col-sm-offset-5">
+                                <h3><img src="icons/logo-icon-green.svg" width="100" height="100" alt=""> Velkommen til BSY </h3>
+                                <div class="promo">
+                                    <h4>Bransjeforeningen for Systeminnredning i Yrkesbygg</h4>
+                                    <p>
+                                        Foreningen representerer firmaer som produserer, leverer, selger og monterer systeminnredninger og tilhørende komponenter.
+                                    </p>
+                                </div>
+                                <h6>Hva betyr vi for deg som kunde?</h6>
+                                <p>
+                                    Et medlem i BSY er forpliktet til å overholde de retningslinjer som er nedfestet i BSY’s statutter. Samtlige aktører i en byggeprosess vil dra nytte av å velge et BSY-medlem.
+                                </p>
+                                <p>
+                                    <a class="btn" href="about.html">Les mer om oss og hva vi betyr for deg som kunde</a>
+                                </p>
+                                <p class="lead"><a class="control" href="#">Du kan også scrolle ned for å lese om systeminnredning</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--/.container-->
+                </div>
+            </div>
+        </section>
+        <!-- content-9 -->
+        <section class="content-9 v-center">
+            <div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <h3>Hva er systeminnredning?</h3>
+                            <p>Systeminnredning monteres raskt. Tid er penger, og systeminnredning bidrar til å kutte ned på byggetiden. Monteringen skjer ryddig, med lite rot, søl og skader. Resultatet blir hensiktsmessige og gode lokaler for dem som skal
+                                arbeide der.</p>
+                            <p>Innredningen kan endres - uten å sjenere brukerne unødig. Det er ikke nødvendig å forlate lokalene når håndverkerne skal gjøre endringer. Monteringen foregår stille. Ominnredning hindrer ikke vanlige gjøremål.</p>
+                            <p>Stenderverk montert etter at gulv og himling er lagt sikrer fleksibiliteten for senere ombygninger. Platekledning utføres rasjonelt med ferdig overflatebehandlede veggplater.</p>
+                        </div>
+                        <div class="col-sm-5 col-sm-offset-1 hidden-xs">
+                            <img src="img/settings@2x.png" width="300" height="300" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="control-btn fui-arrow-down" href="#"> </a>
+        </section>
+        <!-- content-36 -->
+        <section class="content-36 v-center">
+            <div>
+                <div class="container">
+                    <h2>Vi har laget prosjekteringsveiledning for våre medlemer</h2>
+                    <a class="btn btn-success" href="prosjekteringsveiledning.html">Den kan du lese her</a>
+                    <p>Sist revidert 26. Februar 2016.</p>
+                </div>
+            </div>
+            <a class="control-btn fui-arrow-down" href="#"> </a>
+        </section>
+        <!-- content-26 -->
+        <section class="content-26 first v-center">
+            <div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2">
+                            <h3>Noen av våre innredningsentrepenører</h3>
+                            <p class="lead">Å amarbeide med et BSY-medlem er å velge sikkerhet.</p>
+                        </div>
+                    </div>
+                    <div class="row features">
+                        <div class="col-sm-3">
+                            <div class="img"><img src="img/suppliers/knaufdanoline.png"></div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="img"><img src="img/suppliers/glava.png"></div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="img"><img src="img/suppliers/hodneland.png"></div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="img"><img src="img/suppliers/norprodukter.png"></div>
+                        </div>
+                    </div>
+                    <div class="row ">
+                        <div class="col-sm-12">
+                            <a class="btn btn-success" href="entrepreneurs.html">Se alle innredningsentrepenører</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="control-btn fui-arrow-down" href="#"> </a>
+        </section>
+        <!-- content-26 -->
+        <section class="content-26 second v-center">
+            <div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2">
+                            <h3>Noen av våre leverandører</h3>
+                            <p class="lead">Alle representert med sine fagfolk i BSY.</p>
+                        </div>
+                    </div>
+                    <div class="row features">
+                        <div class="col-sm-3">
+                            <div class="img"><img src="img/suppliers/knaufdanoline.png"></div>
+                        </div>
+                        <div class="col-sm-4 col-sm-offset-1">
+                            <div class="img"><img src="img/suppliers/glava.png"></div>
+                        </div>
+                        <div class="col-sm-3 col-sm-offset-1">
+                            <div class="img"><img src="img/suppliers/hodneland.png"></div>
+                        </div>
+                    </div>
+                    <div class="row features">
+                        <div class="col-sm-3">
+                            <div class="img"><img src="img/suppliers/norprodukter.png"></div>
+                        </div>
+                        <div class="col-sm-4 col-sm-offset-1">
+                            <div class="img"><img src="img/suppliers/breivik.png"></div>
+                        </div>
+                        <div class="col-sm-3 col-sm-offset-1">
+                            <div class="img"><img src="img/suppliers/team-innredning.png"></div>
+                        </div>
+                    </div>
+                    <div class="row ">
+                        <div class="col-sm-12">
+                            <a class="btn btn-success" href="entrepreneurs.html">Se alle leverandører</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer class="footer-6 footer-dark">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-5">
+                        <div><a class="brand" href="#">BSY</a></div>
+                        <p>Hovedformålet til BSY er å være en interessegruppe for kvalitetssikring innen systeminnredning; en felles, faglig og nøytralt instans som alle parter i en byggesak vil dra nytte av. BSY representerer firmaer som produserer, leverer,
+                            selger og monterer systeminnredninger og tilhørende komponenter.</p>
+                    </div>
+                    <nav>
+                        <div class="col-sm-6 col-md-3 col-md-offset-1">
+                            <h6>Kontaktinformasjon</h6>
+                            <ul>
+                                <li>
+                                    <a href="https://www.google.no/maps/dir//Baker+%C3%98stbys+vei+21,+1351+Rud/@59.9065555,10.4956988,17z/data=!4m13!1m4!3m3!1s0x4641137508b484ef:0x319bcc5547874476!2sBaker+%C3%98stbys+vei+21,+1351+Rud!3b1!4m7!1m0!1m5!1m1!1s0x4641137508b484ef:0x319bcc5547874476!2m2!1d10.4978928!2d59.9065555?hl=en"
+                                        title="Få veibeskrivelse i Google Maps" target="_blank"><i class="fa fa-map-marker"></i> Baker Østbys vei 21, 1351 Rud</a>
+                                </li>
+                                <li><i class="fa fa-phone"></i> +47 67 17 02 00</li>
+                                <li><a href="contact.html" title="Send oss en melding"><i class="fa fa-paper-plane"></i> info@bsy.no</a></li>
+                                <li><i class="fa fa-mobile"></i> +47 901 41 617</li>
+                                <li><i class="fa fa-clock-o"></i> Man – Fre: 09:00 – 15:00</li>
+                            </ul>
+                        </div>
+                        <div class=" col-sm-6 col-md-3">
+                            <h6>Anbefalt lesing</h6>
+                            <ul>
+                                <li><a href="board.html">Styret i BSY</a></li>
+                                <li><a href="whatwedo.html">Hva vi gjør</a></li>
+                                <li><a href="entrepreneurs.html">Entrepenører</a></li>
+                                <li><a href="entrepreneurs.html">Leverandører</a></li>
+                                <li><a href="prosjekteringsveiledning.html">Prosjekteringsveiledning <span class="label label-small label-primary">Nå Online</span></a></li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </footer>
+        <footer class="footer-2 footer-darkest">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-6 pull-right">
+                        <nav>
+                            <ul>
+                                <li class="active"><a href="/">Startsiden</a></li>
+                                <li><a href="about.html">Om oss</a></li>
+                                <li><a href="gallery.html">Inspirasjonsgalleri</a></li>
+                                <li><a href="contact.html">Kontakt oss</a></li>
+                                <li><a href="login.html">Medlemssider</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="additional-links col-sm-12 col-md-6">
+                        Copyright tekst og bilder <i class="fa fa-copyright"></i> 1991 - 2016 BSY
+                        <div class="github">
+                            <a href="#" target="_blank" rel="author" title="Kildekode tilgjengelig på GitHub">
+                                <i class="fa fa-github"></i>
+                            </a>
+                        </div>
+                        <div class="site-author">
+                            <a href="http://www.kungfumedia.no/" target="_blank" rel="author" title="Utviklet av Kung Fu Media">
+                                <i class="fa fa-code"></i>
+                                <i class="fa fa-wordpress"></i>
+                                <i class="fa fa-heart"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+    <script src="./js/vendor/bootstrap/bootstrap.js"></script>
+    <script src="./js/jquery.cookie.js"></script>
+    <script src="./js/vendor/fastclick/fastclick.js"></script>
+    <script src="./js/vendor/autosize/autosize.js"></script>
+    <script src="./js/vendor/datatables.net/jquery.dataTables.js"></script>
+    <script src="./js/vendor/datatables.net-bs/dataTables.bootstrap.js"></script>
+    <script src="./js/vendor/datatables-buttons/dataTables.buttons.js"></script>
+    <script src="./js/jquery.dataTables.yadcf.0.9.0.beta.5.js"></script>
+    <script src="./js/vendor/handlebars/handlebars.js"></script>
+    <script src="./js/vendor/typeahead.js/typeahead.bundle.js"></script>
+    <script src="./toolkits/startup/common-files/js/startup-kit.js"></script>
+    <script src="./js/vendor/jquery-ui/jquery-ui.js"></script>
+    <script src="./js/vendor/select2/select2.js"></script>
+    <script src="./js/vendor/jquery-mixitup/jquery.mixitup.js"></script>
+    <script src="./js/BSY.js"></script>
+    <script src="./js/BSY.mod.fastclick.js"></script>
+    <script src="./js/BSY.mod.twitter.js"></script>
+    <script src="./js/BSY.mod.test.js"></script>
+    <script src="./js/BSY.init.js"></script>
+    <script src="./js/development.js"></script>
+    <script>
+        $(function() {});
+
+        $(document).ready(function() {});
+
+        $(window).load(function() {});
+
+        $(window).resize(function() {});
+    </script>
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./toolkits/startup/common-files/js/jquery.bxslider.min.js"></script>
+    <script src="./toolkits/startup/common-files/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+    <script src="./toolkits/startup/common-files/js/jquery.sharrre.min.js"></script>
+    <script src="./toolkits/startup/common-files/js/masonry.pkgd.min.js"></script>
+    <script src="./toolkits/startup/common-files/js/modernizr.custom.js"></script>
+    <script src="./toolkits/startup/common-files/js/page-transitions.js"></script>
+    <script src="./toolkits/startup/common-files/js/easing.min.js"></script>
+    <script src="./toolkits/startup/common-files/js/jquery.svg.js"></script>
+    <script src="./toolkits/startup/common-files/js/jquery.svganim.js"></script>
+    <script src="./toolkits/startup/common-files/js/jquery.backgroundvideo.min.js"></script>
+    <script src="./toolkits/startup/common-files/js/froogaloop.min.js"></script>
+    <script src="./toolkits/startup/flat-ui/dist/js/flat-ui-pro.min.js"></script>
+</body>
+
+</html>

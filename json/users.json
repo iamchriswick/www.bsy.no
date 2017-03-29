@@ -1,0 +1,23 @@
+[{
+    "userID": "25",
+    "username": "kingoftown",
+    "first": "Colin",
+    "last": "Town",
+    "email": "colin@town.com",
+    "tokens": [
+        "kingoftown",
+        "Colin",
+        "Town"
+    ]
+}, {
+    "userID": "2038",
+    "username": "monsterc",
+    "first": "Colin",
+    "last": "Van",
+    "email": "colin@monster.ca",
+    "tokens": [
+        "monster",
+        "Colin",
+        "Van"
+    ]
+}]
