@@ -1,4 +1,4 @@
-'use strict';
+// 'use strict';
 
 import path from 'path';
 import gulp from 'gulp';
@@ -25,16 +25,16 @@ let buildScripts = () => {
     this.emit('end');
   };
   return gulp.src(conf.paths.scripts.src)
-    .pipe($.plumber({
-      errorHandler: onError
-    }))
-    .pipe($.concat(conf.paths.scripts.file + '.js'))
-    .pipe(gulp.dest(conf.paths.scripts.dist))
-    .pipe($.uglify())
-    .pipe($.rename({
-      basename: conf.paths.scripts.file,
-      suffix: '.min'
-    }))
+    // .pipe($.plumber({
+    //   errorHandler: onError
+    // }))
+    // .pipe($.concat(conf.paths.scripts.file + '.js'))
+    // .pipe(gulp.dest(conf.paths.scripts.dist))
+    // .pipe($.uglify())
+    // .pipe($.rename({
+    //   basename: conf.paths.scripts.file,
+    //   suffix: '.min'
+    // }))
     .pipe(gulp.dest(conf.paths.scripts.dist))
     .pipe($.notify({
       title: 'JS task completed',

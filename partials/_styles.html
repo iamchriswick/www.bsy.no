@@ -1,3 +1,45 @@
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
-<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
-<link rel="stylesheet" href="/css/style.min.css" />
+<link rel="stylesheet" href="/js/vendor/bootstrap/bootstrap.css">
+<link rel="stylesheet" href="/js/vendor/datatables.net-bs/dataTables.bootstrap.css">
+<link rel="stylesheet" href="/toolkits/startup/flat-ui/dist/css/flat-ui-pro.min.css">
+<!-- Using only with Flat-UI (free)-->
+<link rel="stylesheet" href="/toolkits/startup/common-files/css/icon-font.css">
+<!-- end -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<!--<link rel="stylesheet" href="/css/BSY.css"> -->
+<!--<link rel="stylesheet" href="/css/development.css"> -->
+<link rel="stylesheet" href="/css/style.css">
+
+<script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
+<script src="/animations/hero/hero.js"></script>
+<script>
+	var canvas, stage, exportRoot;
+
+	function init() {
+		// --- write your JS code here ---
+
+		canvas = document.getElementById("hero");
+		images = images || {};
+
+		var loader = new createjs.LoadQueue(false);
+		loader.addEventListener("fileload", handleFileLoad);
+		loader.addEventListener("complete", handleComplete);
+		loader.loadManifest(lib.properties.manifest);
+	}
+
+	function handleFileLoad(evt) {
+		if (evt.item.type == "image") {
+			images[evt.item.id] = evt.result;
+		}
+	}
+
+	function handleComplete(evt) {
+		exportRoot = new lib.hero();
+
+		stage = new createjs.Stage(canvas);
+		stage.addChild(exportRoot);
+		stage.update();
+
+		createjs.Ticker.setFPS(lib.properties.fps);
+		createjs.Ticker.addEventListener("tick", stage);
+	}
+</script>

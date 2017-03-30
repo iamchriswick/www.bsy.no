@@ -23,6 +23,30 @@ export const paths = {
     src: `${dirs.src}/img/**/*`,
     dist: `${dirs.dist}/img`
   },
+  animations: {
+    src: `${dirs.src}/animations/**/*`,
+    dist: `${dirs.dist}/animations`
+  },
+  vendor: {
+    src: `${dirs.src}/js/vendor/**/*`,
+    dist: `${dirs.dist}/js/vendor`
+  },
+  fonts: {
+    src: `${dirs.src}/fonts/**/*`,
+    dist: `${dirs.dist}/fonts`
+  },
+  json: {
+    src: `${dirs.src}/json/**/*`,
+    dist: `${dirs.dist}/json`
+  },
+  toolkits: {
+    src: `${dirs.src}/toolkits/**/*`,
+    dist: `${dirs.dist}/toolkits`
+  },
+	icons: {
+    src: `${dirs.src}/icons/**/*`,
+    dist: `${dirs.dist}/icons`
+  },
   html: {
     src: `${dirs.html}/**/*.html`,
     partials: `partials/**/*.html`,
