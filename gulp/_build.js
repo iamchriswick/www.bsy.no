@@ -14,5 +14,5 @@ gulp.task('clean', () => {
 });
 
 gulp.task('build', ['clean'], () => {
-  runSequence('styles','scripts','images','favicons','html');
+  runSequence('styles','scripts','images','animations','vendor','fonts','json','toolkits','icons','favicons','html');
 });
