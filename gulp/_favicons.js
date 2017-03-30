@@ -26,27 +26,27 @@ let buildFavicons = () => {
     this.emit('end');
   };
   return gulp.src(conf.paths.favicons.src)
-    .pipe($.plumber({
-      errorHandler: onError
-    }))
-    .pipe(favicons({
-        appName: conf.favicons.name,
-        appDescription: conf.favicons.desc,
-        developerName: conf.favicons.dev_name,
-        developerURL: conf.favicons.dev_url,
-        background: conf.favicons.bg,
-        path: conf.paths.favicons.path,
-        url: conf.favicons.domain,
-        display: conf.favicons.standalone,
-        orientation: conf.favicons.orientation,
-        start_url: conf.favicons.start_url,
-        version: conf.favicons.vers,
-        logging: false,
-        online: false,
-        html: conf.paths.favicons.html,
-        pipeHTML: true,
-        replace: true
-    }))
+    // .pipe($.plumber({
+    //   errorHandler: onError
+    // }))
+    // .pipe(favicons({
+    //     appName: conf.favicons.name,
+    //     appDescription: conf.favicons.desc,
+    //     developerName: conf.favicons.dev_name,
+    //     developerURL: conf.favicons.dev_url,
+    //     background: conf.favicons.bg,
+    //     path: conf.paths.favicons.path,
+    //     url: conf.favicons.domain,
+    //     display: conf.favicons.standalone,
+    //     orientation: conf.favicons.orientation,
+    //     start_url: conf.favicons.start_url,
+    //     version: conf.favicons.vers,
+    //     logging: false,
+    //     online: false,
+    //     html: conf.paths.favicons.html,
+    //     pipeHTML: true,
+    //     replace: true
+    // }))
     .pipe(gulp.dest(conf.paths.favicons.dist))
     .pipe($.notify({
       title: 'Favicons task completed',
