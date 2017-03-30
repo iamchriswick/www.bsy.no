@@ -71,7 +71,7 @@ $(document).ready(function () {
 		//
 		// 	// $('.contact form').fadeOut();
 		//
-		// 	console.log("Thank you!");
+			console.log("Thank you!");
 		//
 		// });
 
