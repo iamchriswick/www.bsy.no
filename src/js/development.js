@@ -889,7 +889,7 @@ jQuery(document).ready(function($) {
 
         // // Initiate sort by Gallery Name
         // $(sortName).one("click", sortNameHandler1);
-        // //$(sortName).unbind("click", sortDateHandler1).one("click", sortNameHandler1); 
+        // //$(sortName).unbind("click", sortDateHandler1).one("click", sortNameHandler1);
 
         // // MixItUp - Sort by date
         // function sortDateHandler1() {
@@ -952,7 +952,7 @@ jQuery(document).ready(function($) {
         //             $('.mix').each(function() {
         //                 //$this = $("this");
 
-        //                 // add item to be filtered out if input text matches items inside the title   
+        //                 // add item to be filtered out if input text matches items inside the title
         //                 if ($(this).children('.project').children('.info').children('.company').children('span').text().toLowerCase().match(inputText)) {
         //                     $matching = $matching.add(this);
         //                 } else if ($(this).children('.project').children('.info').children('.name').text().toLowerCase().match(inputText)) {
@@ -1239,7 +1239,7 @@ jQuery(document).ready(function($) {
 
 });
 
-$(document).ready(function() {
-
-
-});
+// $(document).ready(function() {
+//
+//
+// });
