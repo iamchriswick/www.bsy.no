@@ -61,11 +61,11 @@ export const paths = {
 };
 
 export const favicons = {
-  name: "HTML Starter Kit",
-  desc: "HTML Starter Kit with Gulp",
-  dev_name: "Blockshot",
-  dev_url: "http://blockshot.org/",
-  domain: `http://YOURDOMAIN.com/`,
+  name: "Bsy.no",
+  desc: "Bransjeforeningen for Systeminnredning i Yrkesbygg",
+  dev_name: "KFM",
+  dev_url: "https://kungfumedia.no/",
+  domain: `https://www.bsy.no/`,
   bg: "#dddddd",
   display: "standalone",
   orientation: "portrait",

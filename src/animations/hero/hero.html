@@ -7,49 +7,58 @@
 
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta charset="UTF-8">
-<title>hero</title>
-<!-- write your code here -->
+	<meta charset="UTF-8">
+	<title>hero</title>
+	<!-- write your code here -->
 
 
-<script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
-<script src="hero.js"></script>
-<script>
-var canvas, stage, exportRoot;
-function init() {
-	// --- write your JS code here ---
-	
-	canvas = document.getElementById("canvas");
-	images = images||{};
+	<script src="//code.createjs.com/createjs-2015.11.26.min.js"></script>
+	<script src="hero.js"></script>
+	<script>
+		var canvas, stage, exportRoot;
 
-	var loader = new createjs.LoadQueue(false);
-	loader.addEventListener("fileload", handleFileLoad);
-	loader.addEventListener("complete", handleComplete);
-	loader.loadManifest(lib.properties.manifest);
-}
+		function init() {
+			// --- write your JS code here ---
 
-function handleFileLoad(evt) {
-	if (evt.item.type == "image") { images[evt.item.id] = evt.result; }
-}
+			canvas = document.getElementById("canvas");
+			images = images || {};
 
-function handleComplete(evt) {
-	exportRoot = new lib.hero();
+			var loader = new createjs.LoadQueue(false);
+			loader.addEventListener("fileload", handleFileLoad);
+			loader.addEventListener("complete", handleComplete);
+			loader.loadManifest(lib.properties.manifest);
+		}
 
-	stage = new createjs.Stage(canvas);
-	stage.addChild(exportRoot);
-	stage.update();
+		function handleFileLoad(evt) {
+			if (evt.item.type == "image") {
+				images[evt.item.id] = evt.result;
+			}
+		}
 
-	createjs.Ticker.setFPS(lib.properties.fps);
-	createjs.Ticker.addEventListener("tick", stage);
-}
+		function handleComplete(evt) {
+			exportRoot = new lib.hero();
 
-</script>
+			stage = new createjs.Stage(canvas);
+			stage.addChild(exportRoot);
+			stage.update();
 
-<!-- write your code here -->
+			createjs.Ticker.setFPS(lib.properties.fps);
+			createjs.Ticker.addEventListener("tick", stage);
+		}
+	</script>
+
+	<!-- write your code here -->
 
 </head>
+
 <body onload="init();" style="background-color:#D4D4D4;margin:0px;">
 	<canvas id="canvas" width="459" height="300" style="background-color:#FFFFFF"></canvas>
 </body>
+
+</html>
+" style="background-color:#FFFFFF"></canvas>
+</body>
+
 </html>

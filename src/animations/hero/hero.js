@@ -1,7 +1,7 @@
 (function (lib, img, cjs, ss) {
 
 var p; // shortcut to reference prototypes
-lib.webFontTxtFilters = {}; 
+lib.webFontTxtFilters = {};
 
 // library properties:
 lib.properties = {
@@ -11,14 +11,14 @@ lib.properties = {
 	color: "#FFFFFF",
 	webfonts: {},
 	manifest: [
-		{src:"./animations/hero/images/green.png", id:"green"},
-		{src:"./animations/hero/images/grey.png", id:"grey"}
+		{src:"/animations/hero/images/green.png", id:"green"},
+		{src:"/animations/hero/images/grey.png", id:"grey"}
 	]
 };
 
 
 
-lib.webfontAvailable = function(family) { 
+lib.webfontAvailable = function(family) {
 	lib.properties.webfonts[family] = true;
 	var txtFilters = lib.webFontTxtFilters && lib.webFontTxtFilters[family] || [];
 	for(var f = 0; f < txtFilters.length; ++f) {
