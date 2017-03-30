@@ -41,6 +41,18 @@ $(document).ready(function () {
 			.closest('li')
 			.addClass('active');
 
+	} else if (currentPathName === '/kontaktoss/takk/') {
+
+		$('header .navbar .nav')
+			.find('a[href="/kontaktoss/"]')
+			.closest('li')
+			.addClass('active');
+
+		$('footer nav')
+			.find('a[href="/kontaktoss/"]')
+			.closest('li')
+			.addClass('active');
+
 	}
 
 	var thisYear = new Date().getFullYear();
@@ -51,16 +63,18 @@ $(document).ready(function () {
 
 		e.preventDefault();
 
+		location.href='/kontaktoss/takk/';
+
 		var $form = $(this);
 
-		$.post($form.attr("action"), $form.serialize()).then(function () {
+		// $.post($form.attr("action"), $form.serialize()).then(function () {
+		//
+		// 	// $('.contact form').fadeOut();
+		//
+		// 	console.log("Thank you!");
+		//
+		// });
 
-			$('.contact form').fadeOut();
-
-			console.log("Thank you!");
-
-		});
-		
 	});
 
 });
